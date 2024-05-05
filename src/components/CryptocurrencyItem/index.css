@@ -1,0 +1,45 @@
+.table-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #092e33;
+  border-radius: 6px;
+  height: 40px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+
+.currency-logo {
+  width: 16px;
+  margin-right: 10px;
+}
+
+.currency {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50%;
+}
+
+.usd-value {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  width: 25%;
+}
+
+.euro-value {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  width: 25%;
+}
